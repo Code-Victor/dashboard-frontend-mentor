@@ -1,5 +1,16 @@
 module.exports = {
-  purge: ['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+  purge: {
+    enabled:true,
+    content:['./src/**/*.{js,jsx,ts,tsx}', './public/index.html'],
+    safelist:[
+      "blue-facebook",
+      "blue-twitter",
+      "instagram-start",
+      "instagram-stop",
+      "red-youtube",
+    ]
+  },
+
   darkMode: 'class', // or 'media' or 'class'
   theme: {
     extend: {
