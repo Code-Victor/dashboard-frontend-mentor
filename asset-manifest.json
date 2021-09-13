@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.b6335549.chunk.css",
+    "main.js": "/my-project/static/js/main.0d26679e.chunk.js",
+    "main.js.map": "/my-project/static/js/main.0d26679e.chunk.js.map",
+    "runtime-main.js": "/my-project/static/js/runtime-main.977b6fbf.js",
+    "runtime-main.js.map": "/my-project/static/js/runtime-main.977b6fbf.js.map",
+    "static/js/2.c9c20be7.chunk.js": "/my-project/static/js/2.c9c20be7.chunk.js",
+    "static/js/2.c9c20be7.chunk.js.map": "/my-project/static/js/2.c9c20be7.chunk.js.map",
+    "index.html": "/my-project/index.html",
+    "static/css/main.b6335549.chunk.css.map": "/my-project/static/css/main.b6335549.chunk.css.map",
+    "static/js/2.c9c20be7.chunk.js.LICENSE.txt": "/my-project/static/js/2.c9c20be7.chunk.js.LICENSE.txt",
+    "static/media/icon-down.0c77426d.svg": "/my-project/static/media/icon-down.0c77426d.svg",
+    "static/media/icon-facebook.8deee3e3.svg": "/my-project/static/media/icon-facebook.8deee3e3.svg",
+    "static/media/icon-instagram.568b5795.svg": "/my-project/static/media/icon-instagram.568b5795.svg",
+    "static/media/icon-twitter.a0c5f64d.svg": "/my-project/static/media/icon-twitter.a0c5f64d.svg",
+    "static/media/icon-up.359200b2.svg": "/my-project/static/media/icon-up.359200b2.svg",
+    "static/media/icon-youtube.cad14335.svg": "/my-project/static/media/icon-youtube.cad14335.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977b6fbf.js",
+    "static/js/2.c9c20be7.chunk.js",
+    "static/css/main.b6335549.chunk.css",
+    "static/js/main.0d26679e.chunk.js"
+  ]
+}
