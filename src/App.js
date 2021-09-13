@@ -123,7 +123,7 @@ function App() {
           {Accounts.map((element)=>{
             return(
             <div className="">
-              <div className={"inline-block w-full h-2 rounded-t-lg -mb-2 "+`${element.gradient? "bg-gradient-to-r"+" "+"from-"+element.color[0]+" "+"to-"+element.color[1]:"bg-"+element.color}`}></div>
+              <div className={element.gradient ? `inline-block w-full h-2 rounded-t-lg -mb-2 bg-gradient-to-r from-${element.color[0]} to-${element.color[1]}`:`inline-block w-full h-2 rounded-t-lg -mb-2 bg-${element.color}`}></div>
               <div className="px-6 py-4 bg-white-card dark:bg-blue-card dark:text-white flex items-center flex-col gap-y-6 rounded-lg">
                   <div className="flex items-center gap-1 font-bold">
                     <img src={element.icon} alt=""  />
