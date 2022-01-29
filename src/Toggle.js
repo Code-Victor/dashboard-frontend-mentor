@@ -2,10 +2,10 @@ import { useState } from 'react'
 import { Switch } from '@headlessui/react'
 
 function MyToggle() {
-  const [theme, setTheme] = useState(true);
+  const [theme, setTheme] = useState(false);
   const root=document.getElementById('root');
   const attribution=document.getElementsByClassName('attribution')[0];
-  if (!theme){
+  if (theme){
     root.classList.add("dark")
     root.classList.add("black")
     attribution.classList.add("black")
@@ -23,7 +23,7 @@ else{
       checked={theme}
       onChange={setTheme}
       className={`${
-        theme ? 'bg-gray-200' : 'bg-gradient-to-r from-indigo-500 via-green-500 to-green-300'
+        !theme ? 'bg-gray-200' : 'bg-gradient-to-r from-indigo-500 via-green-500 to-green-300'
       } relative inline-flex items-center h-6 rounded-full w-12 transition-transform`}
     >
       <span className="sr-only">Enable dark Mode</span>
