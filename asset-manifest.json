@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/dashboard-frontend-mentor/static/css/main.b6335549.chunk.css",
-    "main.js": "/dashboard-frontend-mentor/static/js/main.43c3afeb.chunk.js",
-    "main.js.map": "/dashboard-frontend-mentor/static/js/main.43c3afeb.chunk.js.map",
+    "main.css": "/dashboard-frontend-mentor/static/css/main.f363ea3c.chunk.css",
+    "main.js": "/dashboard-frontend-mentor/static/js/main.780479b8.chunk.js",
+    "main.js.map": "/dashboard-frontend-mentor/static/js/main.780479b8.chunk.js.map",
     "runtime-main.js": "/dashboard-frontend-mentor/static/js/runtime-main.583bc80a.js",
     "runtime-main.js.map": "/dashboard-frontend-mentor/static/js/runtime-main.583bc80a.js.map",
     "static/js/2.c9c20be7.chunk.js": "/dashboard-frontend-mentor/static/js/2.c9c20be7.chunk.js",
     "static/js/2.c9c20be7.chunk.js.map": "/dashboard-frontend-mentor/static/js/2.c9c20be7.chunk.js.map",
     "index.html": "/dashboard-frontend-mentor/index.html",
-    "static/css/main.b6335549.chunk.css.map": "/dashboard-frontend-mentor/static/css/main.b6335549.chunk.css.map",
+    "static/css/main.f363ea3c.chunk.css.map": "/dashboard-frontend-mentor/static/css/main.f363ea3c.chunk.css.map",
     "static/js/2.c9c20be7.chunk.js.LICENSE.txt": "/dashboard-frontend-mentor/static/js/2.c9c20be7.chunk.js.LICENSE.txt",
     "static/media/icon-down.0c77426d.svg": "/dashboard-frontend-mentor/static/media/icon-down.0c77426d.svg",
     "static/media/icon-facebook.8deee3e3.svg": "/dashboard-frontend-mentor/static/media/icon-facebook.8deee3e3.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.583bc80a.js",
     "static/js/2.c9c20be7.chunk.js",
-    "static/css/main.b6335549.chunk.css",
-    "static/js/main.43c3afeb.chunk.js"
+    "static/css/main.f363ea3c.chunk.css",
+    "static/js/main.780479b8.chunk.js"
   ]
 }
