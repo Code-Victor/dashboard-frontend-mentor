@@ -37,6 +37,7 @@
 ## Overview
 
 ![screenshot](./result/desktop-mode.png)
+<br>
 A static social Media Dashboard with light and dark Mode and nice user interface
 you can view the demo <a href="https://code-victor.github.io/dashboard-frontend-mentor/">here</a>.it was a little easy,but I had some problems with my tailwind config file.I've gotten better at it tho.
 
